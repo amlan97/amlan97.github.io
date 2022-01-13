@@ -103,7 +103,7 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt">Hi! I'm <strong>Amlan</strong>, an under-graduate student devoted to <strong>Science</strong>.</h2>
+								<h2 class="alt">Hi! I'm <strong>Amlan</strong>, a graduate student devoted to <strong>Science</strong>.</h2>
 								<p>Welcome to my webpage. Here you will find out more about me. </p>
 							</header>
 
@@ -123,8 +123,8 @@
 
 							<a href="#" class="image featured"><img src="images/me.jpg" alt="" /></a>
 
-							<p>I am a fifth year student pursuing BS-MS Dual Degree program with major in Physics at Indian Institute of Science Education and Research Kolkata(<a href="https://www.iiserkol.ac.in/web/en/" target="_blank">IISER-K</a>), India. I am currently working under Dr. Rangeet Bhattacharyya, Group leader of <a href="https://www.iiserkol.ac.in/~rangeet/" 
-							target="_blank">SpinLab</a> at IISER Kolkata.</p>
+							<p>I am a first year graduate student(Doctoral) doing my PhD in Physics with specialization in superconductivity in the Department of Physics and Astronomy at Iowa State University, Ames, (<a href="https://www.physastro.iastate.edu/" target="_blank">ISU</a>), USA. I am currently working in the  Superconductivity and Magnetism Low-Temperature Laboratory group
+								<a href="https://supermaglab.physics.iastate.edu/" target="_blank">SUPERMAGLAB</a>.</p>
 							<ul class="actions">
 								<a target="_blank" href="pdfs/CV_Amlan.pdf" <button class="button1" style="vertical-align:middle"><span>Download My CV</span></button> ></a>
 								
