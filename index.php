@@ -123,7 +123,7 @@
 
 							<a href="#" class="image featured"><img src="images/me.jpg" alt="" /></a>
 
-							<p>I am a first year graduate student(Doctoral) doing my PhD in Physics with specialization in superconductivity in the Department of Physics and Astronomy at Iowa State University, Ames, (<a href="https://www.physastro.iastate.edu/" target="_blank">ISU</a>), USA. I am currently working in the  Superconductivity and Magnetism Low-Temperature Laboratory group
+							<p>I am a first year graduate student pursuing PhD in Physics with specialization in superconductivity in the Department of Physics and Astronomy at Iowa State University, Ames, (<a href="https://www.physastro.iastate.edu/" target="_blank">ISU</a>), USA. I am currently working in the  Superconductivity and Magnetism Low-Temperature Laboratory group
 								<a href="https://supermaglab.physics.iastate.edu/" target="_blank">SUPERMAGLAB</a>.</p>
 							<ul class="actions">
 								<a target="_blank" href="pdfs/CV_Amlan.pdf" <button class="button1" style="vertical-align:middle"><span>Download My CV</span></button> ></a>
@@ -139,8 +139,9 @@
 								<h2>Educational Qualifications</h2>
 							</header>
 							<ul style="list-style-type:disc;">
-								  <li>Presently a <strong> Fifth-Year student of 5 years BS-MS Dual Degree Program </strong> (2016-2021) at IISER
-										Kolkata, West Bengal, India. (Admitted through JEE Advanced (2016) Channel)
+								  <li> Presently a <strong>First-year Graduate student of PhD Program in the Department of Physics and Astronomy at ISU, Ames, Iowa, USA.
+							          </li>
+								  <li><strong>BS-MS(Physics)</strong> (2016-2021) from IISER Kolkata, West Bengal, India. (Admitted through JEE Advanced (2016) Channel)
 								  </li>
 								  <li><strong>Higher Secondary (10+2)</strong>: Burdwan CMS High School, West Bengal, India. 
 								  <strong>(West Bengal Board of Highrer Secondary Education)</strong> Marks obtained: 90%</li>
@@ -160,7 +161,7 @@
 							</header>
 							<ol type="1">
 								<li><h1>MS project under <strong><a href="https://www.iiserkol.ac.in/~rangeet/" target="_blank">Dr. Rangeet Bhattacharyya</a>, IISER Kolkata, India</strong> since August 2020.</h1>
-								  <p><strong>Topic:</strong> Spin Noise in Open Quantum System</p></li>
+								  <p><strong>Topic:</strong> A Master Equation Approach to Spin Noise</p></li>
 								 <li><h1>Independent study under <strong><a href="https://www.iiserkol.ac.in/~nghosh/nghosh.php" target="_blank"> Dr. Nirmalya Ghosh</a>, IISER Kolkata, India
 </strong> since August 2020.</h1><p><strong>Topic:</strong> Weak Measurements in Optics. (Slides to be uploaded soon)</p>
 								  </li>
