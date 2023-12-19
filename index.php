@@ -5,7 +5,7 @@
     if(isset($_POST['submit'])) {
         if($_POST['submit'] == "submit") {
 
-            $myemail="ad16ms156@iiserkol.ac.in";
+            $myemail="pikuamlan@gmail.com";
             $name = strip_tags($_POST['name']);
             $email = strip_tags($_POST['email']);
             $msg = strip_tags($_POST['message']);
@@ -275,7 +275,7 @@ waves as diffraction grating. <a href="pdfs/Report_IISER.pdf" target="_blank">(P
 							<i class="fas fa-university"></i>&nbsp;F-105, ICV Hall, IISER Kolkata, Mohanpur, Nadia, West Bengal 741246, India.
 							</p>
 
-							<form method="post" action="">
+							<form method="post" action="formHandler.php">
 								<div class="row">
 									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
 									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
