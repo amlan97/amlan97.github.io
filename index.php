@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
     $myemail = $name = $email = $msg = $subject = $headers = "";
 
@@ -33,7 +33,7 @@
         }
     }
 
-?>
+?> -->
 
 
 
